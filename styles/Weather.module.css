@@ -1,0 +1,10 @@
+.weather_section {
+  text-align: center;
+  height: 70%;
+}
+
+@media (max-width: 600px) {
+  .weather_header {
+    font-size: 1.6rem;
+  }
+}

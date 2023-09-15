@@ -1,0 +1,10 @@
+.image_description,
+.temperature {
+  font-weight: 700;
+}
+
+@media (max-width: 600px) {
+  .temperature_text {
+    display: none;
+  }
+}

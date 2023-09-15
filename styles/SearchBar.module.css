@@ -1,0 +1,18 @@
+.search_section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.search {
+  width: 20%;
+  height: 30px;
+  font-size: 1rem;
+}
+
+@media (max-width: 600px) {
+  .search {
+    width: 50%;
+  }
+}
